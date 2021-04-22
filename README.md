@@ -35,4 +35,4 @@ First, [read this][9], then install [gatsby-plugin-force-trailing-slashes][8]
 [6]: https://github.com/jon-sully/react-netlify-identity-gotrue
 [7]: https://gatsby-id-demo.jonsully.net
 [8]: https://github.com/jon-sully/gatsby-plugin-force-trailing-slashes
-[9]: https://jonsully.net/blog/trailing-slashes-on-netlify/
+[9]: https://jonsully.net/blog/trailing-slashes-and-gatsby/
