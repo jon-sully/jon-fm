@@ -26,6 +26,10 @@ Welcome to my GitHub 🤓
 
 First, [read this][9], then install [gatsby-plugin-force-trailing-slashes][8]
 
+### Multi-Step Forms ('Wizards') On Rails (+ Hotwire)?
+
+Check out the [9-Part Full Guide!][10]
+
 
 [1]: https://jonsully.net
 [2]: https://www.netlify.com/products/forms/
@@ -36,3 +40,4 @@ First, [read this][9], then install [gatsby-plugin-force-trailing-slashes][8]
 [7]: https://gatsby-id-demo.jonsully.net
 [8]: https://github.com/jon-sully/gatsby-plugin-force-trailing-slashes
 [9]: https://jonsully.net/blog/trailing-slashes-and-gatsby/
+[10]: https://jonsully.net/blog/rails-wizards-part-one/
